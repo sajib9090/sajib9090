@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Sajib Hossain
-#### A passionate web developer
+
 ![A passionate web developer](https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)
 
-
+### Hi there 👋, my name is Sajib Hossain
+#### A passionate web developer
 Skills: HTML /CSS /JAVASCRIPT/ REACT JS/ EXPRESS JS /NODE JS
 
 - 🌱 I’m currently learning Next js 
