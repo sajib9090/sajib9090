@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **saifsajib97@gmail.com**
+- 📫 Reach me at **saifsajib97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,14 +28,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib9090&show_icons=true&locale=en" alt="sajib9090" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajib9090&" alt="sajib9090" /></p>
 
 
 
 
 
 
-### ✍️ Random Dev Quote
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
